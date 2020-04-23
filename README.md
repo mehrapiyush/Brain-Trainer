@@ -1,11 +1,13 @@
 # Brain-Trainer
 
-## App Intro	
+## Screenshots
+
+### App Intro	
 
 ![screenshot](screenshot1.jpg)
 
-## Quiz ongoing with timer
+### Quiz ongoing with timer
 ![screenshot](screenshot2.jpg) 
 
-## Time Over. Play Again
+### Time Over. Play Again
 ![screenshot](screenshot3.jpg)
